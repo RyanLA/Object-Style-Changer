@@ -1,0 +1,29 @@
+/Users/ryan/Documents/Art185-final/pikamarch.jpg: Predicted in 52.746504 seconds.
+teddy bear
+225, 299, 242, 378
+teddy bear
+300, 387, 243, 390
+teddy bear
+196, 245, 241, 364
+person
+11, 66, 265, 395
+person
+969, 1023, 240, 398
+person
+1248, 1279, 236, 335
+person
+1100, 1156, 250, 434
+person
+0, 95, 284, 719
+person
+842, 885, 270, 389
+person
+590, 639, 251, 375
+person
+371, 409, 182, 250
+person
+922, 979, 236, 400
+person
+1033, 1092, 220, 405
+person
+1161, 1222, 253, 427
